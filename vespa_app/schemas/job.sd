@@ -1,0 +1,121 @@
+schema job{
+    document job{
+        field job_id type string{
+            indexing: attribute | summary
+        }
+        field company_name type string{
+            indexing: summary
+        }
+        field job_summary type string{
+            indexing: summary
+        }
+        field skills type array<string>{
+            indexing: index | summary
+            index: enable-bm25
+        }
+        field job_title type string{
+            indexing: index | summary
+            index: enable-bm25
+        }
+        field job_role type string{
+            indexing: index | summary
+            index: enable-bm25
+        }
+        field total_months_of_experience type int{
+            indexing: attribute | summary
+        }
+        field location type array<string>{
+            indexing: attribute | summary
+        }
+        field annual_ctc type float {
+            indexing: attribute | summary
+        }
+        field created_at type long{
+            indexing: summary
+        }
+        field created_by type string{
+            indexing: summary
+        }
+        field updated_by type string{
+            indexing: summary
+        }
+    }
+    field updated_at type long{
+        indexing: now | summary
+    }
+    field skills_embedding type tensor<float>(p{},x[384]) {
+        indexing: input skills | embed e5-small-skills-v1 | attribute | index
+        attribute {
+            distance-metric: angular
+        }
+    }
+    field job_role_embedding type tensor<float>(x[384]) {
+        indexing: input job_role | embed e5-small-finetuned-role-title | attribute | index
+        attribute {
+            distance-metric: angular
+        }
+    }
+    field job_title_embedding type tensor<float>(x[384]) {
+        indexing: input job_title | embed e5-small-finetuned-role-title | attribute | index
+        attribute {
+            distance-metric: angular
+        }
+    }
+    rank-profile default inherits default {
+        constants{
+            wt_skills: 10
+            wt_role: 10
+            wt_job_title: 10
+        }
+        inputs {
+            query(s) tensor<float>(x[384])
+            query(r) tensor<float>(x[384])
+            query(t) tensor<float>(x[384])
+        }
+        function semantic_skills_score() {
+            expression: max(0, cos(distance(field, skills_embedding)))
+        }
+        function semantic_normalized_skills_score() {
+            expression: semantic_skills_score
+        }
+        function lexical_skills_score(){
+            expression : elementCompleteness(skills).completeness
+        }
+        function skills_score(){
+            expression: max(lexical_skills_score, semantic_normalized_skills_score)
+        }
+        function semantic_role_score() {
+            expression: max(0, cos(distance(field, job_role_embedding)))
+        }
+        function lexical_role_score(){
+            expression : fieldMatch(job_role)
+        }
+        function latest_role_score(){
+            expression : max(lexical_role_score, semantic_role_score)
+        }
+        function semantic_title_score() {
+            expression: max(0, cos(distance(field, job_title_embedding)))
+        }
+        function lexical_title_score(){
+            expression : fieldMatch(job_title)
+        }
+        function latest_title_score(){
+            expression : max(lexical_title_score, semantic_title_score)
+        }
+        function field_count_with_weights(){
+            expression : query(skills_weight) * wt_skills + query(latest_role_weight) * wt_role + query(latest_job_title_weight) * wt_job_title
+        }
+        function field_level_score(){
+            expression : skills_score * query(skills_weight) * wt_skills + latest_role_score * query(latest_role_weight) * wt_role + latest_title_score * query(latest_job_title_weight) * wt_job_title
+        }
+        function relevance_score(){
+            expression: field_level_score/field_count_with_weights
+        }
+
+        first-phase {
+            expression: relevance_score
+        }
+
+        summary-features: semantic_skills_score semantic_normalized_skills_score lexical_skills_score skills_score semantic_role_score lexical_role_score latest_role_score semantic_title_score lexical_title_score latest_title_score field_level_score field_count_with_weights
+    }
+}

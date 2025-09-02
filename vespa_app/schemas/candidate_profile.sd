@@ -1,0 +1,220 @@
+schema candidate_profile{
+    document candidate_profile{
+        field id type string{
+            indexing: attribute | summary
+        }
+        field first_name type string{
+            indexing: summary
+        }
+        field last_name type string{
+            indexing: summary
+        }
+        field primary_mobile_number type string{
+            indexing: attribute | summary
+        }
+        field primary_email type string{
+            indexing: attribute | summary
+        }
+        field current_city type string{
+            indexing: attribute | summary
+        }
+        field preferred_cities type array<string>{
+            indexing: attribute | summary
+        }
+        field preferred_and_current_cities type array<string>{
+            indexing: attribute | summary
+            attribute: fast-search
+        }
+        field total_months_of_experience type int{
+            indexing: attribute | summary
+        }
+        field skills type array<string>{
+            indexing: index | summary
+            index: enable-bm25
+        }
+        field latest_job_title type string{
+            indexing: index | summary
+            index: enable-bm25
+        }
+        field latest_role type string{
+            indexing: index | summary
+            index: enable-bm25
+        }
+        struct organisations {
+            field organisation_name type string{}
+            field job_title type string{}
+            field role type string{}
+            field industry type string{}
+            field employment_type type string{}
+            field is_current_job type int{}
+        }
+        field employment_history type array<organisations>{
+            indexing: summary
+            struct-field organisation_name{
+                indexing: summary
+            }
+            struct-field job_title{
+                indexing: attribute
+            }
+            struct-field role{
+                indexing: attribute
+            }
+            struct-field industry{
+                indexing: attribute
+            }
+            struct-field employment_type{
+                indexing: attribute
+            }
+            struct-field is_current_job{
+                indexing: attribute
+            }
+        }
+        field highest_education_level type string{
+            indexing: index | summary
+            index: enable-bm25
+        }
+        field highest_course_year_of_completion type int{
+            indexing: attribute | summary
+        }
+        struct education {
+            field education_level type string{}
+            field course_name type string{}
+            field specialization type string{}
+            field year_of_completion type int{}
+            field course_type type string{}
+            field is_highest_qualification type int{}
+        }
+        field education_details type array<education>{
+            indexing: summary
+            struct-field education_level{
+                indexing: attribute
+            }
+            struct-field course_name{
+                indexing: attribute
+            }
+            struct-field specialization{
+                indexing: attribute
+            }
+            struct-field year_of_completion{
+                indexing: attribute
+            }
+            struct-field course_type{
+                indexing: attribute
+            }
+            struct-field is_highest_qualification{
+                indexing: attribute
+            }
+        }
+        field expected_annual_ctc type float {
+            indexing: attribute | summary
+        }
+        field current_annual_ctc type float {
+            indexing: attribute | summary
+        }
+        field created_at type long{
+            indexing: summary | attribute
+        }
+        field created_by type string{
+            indexing: summary | attribute
+        }
+        field updated_by type string{
+            indexing: summary | attribute
+        }
+        struct application {
+            field job_summary type string {}
+        }
+
+        field applied_jobs type map<string, application> {
+            indexing: summary
+            struct-field key {
+                indexing: attribute
+                attribute: fast-search
+            }
+            struct-field value.job_summary { indexing: summary }
+        }
+    }
+    field updated_at type long{
+            indexing: now | summary | attribute
+    }
+    field skills_embedding type tensor<float>(p{},x[384]) {
+        indexing: input skills | embed e5-small-skills-v1 | attribute | index
+        attribute {
+            distance-metric: angular
+        }
+    }
+    field latest_role_embedding type tensor<float>(x[384]) {
+        indexing: input latest_role | embed e5-small-finetuned-role-title | attribute | index
+        attribute {
+            distance-metric: angular
+        }
+    }
+    field latest_job_title_embedding type tensor<float>(x[384]) {
+        indexing: input latest_job_title | embed e5-small-finetuned-role-title | attribute | index
+        attribute {
+            distance-metric: angular
+        }
+    }
+    
+    field skills_attr type array<string> {
+        indexing: input skills | attribute
+        attribute: fast-search
+    }
+
+    rank-profile default inherits default {
+        constants{
+            wt_skills: 10
+            wt_role: 8
+            wt_job_title: 5
+        }
+        inputs {
+            query(s) tensor<float>(x[384])
+            query(r) tensor<float>(x[384])
+            query(t) tensor<float>(x[384])
+        }
+        function semantic_skills_score() {
+            expression: max(0, cos(distance(field, skills_embedding)))
+        }
+        function semantic_normalized_skills_score() {
+            expression: semantic_skills_score
+        }
+        function lexical_skills_score(){
+            expression : attributeMatch(skills_attr).queryCompleteness
+        }
+        function skills_score(){
+            expression: max(lexical_skills_score, semantic_normalized_skills_score)
+        }
+        function semantic_role_score() {
+            expression: max(0, cos(distance(field, latest_role_embedding)))
+        }
+        function lexical_role_score(){
+            expression : fieldMatch(latest_role)
+        }
+        function latest_role_score(){
+            expression : max(lexical_role_score, semantic_role_score)
+        }
+        function semantic_title_score() {
+            expression: max(0, cos(distance(field, latest_job_title_embedding)))
+        }
+        function lexical_title_score(){
+            expression : fieldMatch(latest_job_title)
+        }
+        function latest_title_score(){
+            expression : max(lexical_title_score, semantic_title_score)
+        }
+        function field_count_with_weights(){
+            expression : query(skills_weight) * wt_skills + query(latest_role_weight) * wt_role + query(latest_job_title_weight) * wt_job_title
+        }
+        function field_level_score(){
+            expression : skills_score * query(skills_weight) * wt_skills + latest_role_score * query(latest_role_weight) * wt_role + latest_title_score * query(latest_job_title_weight) * wt_job_title
+        }
+        function relevance_score(){
+            expression: field_level_score/field_count_with_weights
+        }
+
+        first-phase {
+            expression: relevance_score
+        }
+
+        summary-features: semantic_skills_score semantic_normalized_skills_score lexical_skills_score skills_score semantic_role_score lexical_role_score latest_role_score semantic_title_score lexical_title_score latest_title_score field_level_score field_count_with_weights
+    }
+}

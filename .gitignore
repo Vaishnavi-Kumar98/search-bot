@@ -1,0 +1,12 @@
+/new_venv
+/app/__pycache__
+/app/api/__pycache__
+/app/api/agent/__pycache__
+/app/api/routers/__pycache__
+/app/api/services/__pycache__
+/app/api/models/__pycache__
+/instance
+*.pyc
+*.pyo
+*.pyd
+__pycache__

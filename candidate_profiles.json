@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "cand-1",
+    "first_name": "Michael",
+    "last_name": "Hurst",
+    "primary_mobile_number": "2292069639680",
+    "primary_email": "kaitlynhenderson@example.net",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Pune",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 92,
+    "skills": [
+      "Python",
+      "ML",
+      "Deep Learning",
+      "Pandas",
+      "Numpy"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Watson-Jackson",
+        "job_title": "Machine Learning Engineer",
+        "role": "Data Scientist",
+        "industry": "Software",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2017,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 8.59,
+    "current_annual_ctc": 8.12
+  },
+  {
+    "id": "cand-2",
+    "first_name": "Barbara",
+    "last_name": "Murphy",
+    "primary_mobile_number": "5303351397718",
+    "primary_email": "matthew91@example.net",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Pune",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 73,
+    "skills": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Model Deployment",
+      "Feature Engineering",
+      "ML Ops"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Williams-Lopez",
+        "job_title": "Machine Learning Engineer",
+        "role": "Data Scientist",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Data Science",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2021,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 16.4,
+    "current_annual_ctc": 13.68
+  },
+  {
+    "id": "cand-3",
+    "first_name": "Christine",
+    "last_name": "Mclaughlin",
+    "primary_mobile_number": "1621681452365",
+    "primary_email": "noblecrystal@example.org",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 72,
+    "skills": [
+      "Data Modelling",
+      "Predictive Analytics",
+      "SciKit-Learn",
+      "ML Pipelines",
+      "EDA"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Wells, Thomas and Brandt",
+        "job_title": "Data Scientist",
+        "role": "Data Scientist",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2020,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 25.82,
+    "current_annual_ctc": 20.73
+  },
+  {
+    "id": "cand-4",
+    "first_name": "Jacqueline",
+    "last_name": "Orr",
+    "primary_mobile_number": "0709227992104",
+    "primary_email": "amandabarber@example.org",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Pune",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 26,
+    "skills": [
+      "AI",
+      "Neural Networks",
+      "Data Mining",
+      "PyTorch",
+      "Mathematics"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Hodge LLC",
+        "job_title": "Research Scientist (AI)",
+        "role": "Data Scientist",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2017,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 30.54,
+    "current_annual_ctc": 24.99
+  },
+  {
+    "id": "cand-5",
+    "first_name": "Johnny",
+    "last_name": "Herring",
+    "primary_mobile_number": "8361791235641",
+    "primary_email": "ulowe@example.org",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Hyderabad",
+      "Pune"
+    ],
+    "total_months_of_experience": 84,
+    "skills": [
+      "Data Modelling",
+      "Predictive Analytics",
+      "SciKit-Learn",
+      "ML Pipelines",
+      "EDA"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Crane-Howard",
+        "job_title": "Research Scientist (AI)",
+        "role": "Data Scientist",
+        "industry": "Analytics",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Data Science",
+        "specialization": "AI",
+        "year_of_completion": 2020,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 30.8,
+    "current_annual_ctc": 28.18
+  },
+  {
+    "id": "cand-6",
+    "first_name": "Heather",
+    "last_name": "Smith",
+    "primary_mobile_number": "5595523634747",
+    "primary_email": "alexis00@example.org",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Bangalore",
+      "Delhi"
+    ],
+    "total_months_of_experience": 92,
+    "skills": [
+      "AI",
+      "Neural Networks",
+      "Data Mining",
+      "PyTorch",
+      "Mathematics"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Peck PLC",
+        "job_title": "Research Scientist (AI)",
+        "role": "Data Scientist",
+        "industry": "Cloud Services",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Information Technology",
+        "specialization": "AI",
+        "year_of_completion": 2018,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 25.74,
+    "current_annual_ctc": 23.29
+  },
+  {
+    "id": "cand-7",
+    "first_name": "Kara",
+    "last_name": "Anderson",
+    "primary_mobile_number": "8462940110095",
+    "primary_email": "dianegriffin@example.com",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 74,
+    "skills": [
+      "Python",
+      "ML",
+      "Deep Learning",
+      "Pandas",
+      "Numpy"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Barrett Inc",
+        "job_title": "Data Analyst (ML)",
+        "role": "Data Scientist",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Data Science",
+        "specialization": "Web Development",
+        "year_of_completion": 2017,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 12.93,
+    "current_annual_ctc": 11.05
+  },
+  {
+    "id": "cand-8",
+    "first_name": "Jessica",
+    "last_name": "Burgess",
+    "primary_mobile_number": "7939606023413",
+    "primary_email": "nicole10@example.net",
+    "current_city": "Hyderabad",
+    "preferred_cities": [
+      "Bangalore",
+      "Pune"
+    ],
+    "total_months_of_experience": 32,
+    "skills": [
+      "AI",
+      "Neural Networks",
+      "Data Mining",
+      "PyTorch",
+      "Mathematics"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Lowe, Davis and Brown",
+        "job_title": "Research Scientist (AI)",
+        "role": "Data Scientist",
+        "industry": "Analytics",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2023,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 35.42,
+    "current_annual_ctc": 32.63
+  },
+  {
+    "id": "cand-9",
+    "first_name": "Emily",
+    "last_name": "Santos",
+    "primary_mobile_number": "4468279012508",
+    "primary_email": "jorgegould@example.org",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 24,
+    "skills": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Model Deployment",
+      "Feature Engineering",
+      "ML Ops"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Green-Meza",
+        "job_title": "Machine Learning Engineer",
+        "role": "Data Scientist",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Computer Science",
+        "specialization": "AI",
+        "year_of_completion": 2023,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 18.18,
+    "current_annual_ctc": 17.16
+  },
+  {
+    "id": "cand-10",
+    "first_name": "Jeffrey",
+    "last_name": "Cox",
+    "primary_mobile_number": "9523589927182",
+    "primary_email": "jose71@example.org",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 78,
+    "skills": [
+      "AI",
+      "Neural Networks",
+      "Data Mining",
+      "PyTorch",
+      "Mathematics"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Crawford, Baker and Glenn",
+        "job_title": "AI Specialist",
+        "role": "Data Scientist",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2018,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 34.92,
+    "current_annual_ctc": 28.37
+  },
+  {
+    "id": "cand-11",
+    "first_name": "Paige",
+    "last_name": "Jones",
+    "primary_mobile_number": "9374071964303",
+    "primary_email": "jamie53@example.net",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Hyderabad",
+      "Pune"
+    ],
+    "total_months_of_experience": 88,
+    "skills": [
+      "AI",
+      "Neural Networks",
+      "Data Mining",
+      "PyTorch",
+      "Mathematics"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Warner, Gibbs and Nash",
+        "job_title": "Research Scientist (AI)",
+        "role": "Data Scientist",
+        "industry": "Analytics",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2020,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 36.53,
+    "current_annual_ctc": 31.56
+  },
+  {
+    "id": "cand-12",
+    "first_name": "Holly",
+    "last_name": "Campos",
+    "primary_mobile_number": "3745565486883",
+    "primary_email": "mcdonalddon@example.org",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Bangalore",
+      "Delhi"
+    ],
+    "total_months_of_experience": 41,
+    "skills": [
+      "Python",
+      "ML",
+      "Deep Learning",
+      "Pandas",
+      "Numpy"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Williams Inc",
+        "job_title": "Machine Learning Engineer",
+        "role": "Data Scientist",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 34.76,
+    "current_annual_ctc": 29.01
+  },
+  {
+    "id": "cand-13",
+    "first_name": "Krystal",
+    "last_name": "Robinson",
+    "primary_mobile_number": "6728719138084",
+    "primary_email": "srogers@example.org",
+    "current_city": "Hyderabad",
+    "preferred_cities": [
+      "Mumbai",
+      "Delhi"
+    ],
+    "total_months_of_experience": 58,
+    "skills": [
+      "Python",
+      "ML",
+      "Deep Learning",
+      "Pandas",
+      "Numpy"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Floyd, Moore and Brown",
+        "job_title": "AI Specialist",
+        "role": "Data Scientist",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2015,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 28.19,
+    "current_annual_ctc": 25.91
+  },
+  {
+    "id": "cand-14",
+    "first_name": "Ryan",
+    "last_name": "Yu",
+    "primary_mobile_number": "1440816486222",
+    "primary_email": "leonardmichael@example.org",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Pune",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 63,
+    "skills": [
+      "Python",
+      "ML",
+      "Deep Learning",
+      "Pandas",
+      "Numpy"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Potter, Mcintyre and Meyer",
+        "job_title": "AI Specialist",
+        "role": "Data Scientist",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "AI",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 37.69,
+    "current_annual_ctc": 34.39
+  },
+  {
+    "id": "cand-15",
+    "first_name": "John",
+    "last_name": "Rodriguez",
+    "primary_mobile_number": "7191978156246",
+    "primary_email": "figueroachristopher@example.net",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 37,
+    "skills": [
+      "AI",
+      "Neural Networks",
+      "Data Mining",
+      "PyTorch",
+      "Mathematics"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Gomez and Sons",
+        "job_title": "Data Scientist",
+        "role": "Data Scientist",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2016,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 38.49,
+    "current_annual_ctc": 33.73
+  },
+  {
+    "id": "cand-16",
+    "first_name": "Ryan",
+    "last_name": "Lee",
+    "primary_mobile_number": "9326145259602",
+    "primary_email": "vaughanbryan@example.net",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Pune",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 48,
+    "skills": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Model Deployment",
+      "Feature Engineering",
+      "ML Ops"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Glenn LLC",
+        "job_title": "AI Specialist",
+        "role": "Data Scientist",
+        "industry": "Software",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Web Development",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 37.83,
+    "current_annual_ctc": 32.36
+  },
+  {
+    "id": "cand-17",
+    "first_name": "Sara",
+    "last_name": "Morrison",
+    "primary_mobile_number": "9007019632031",
+    "primary_email": "chuang@example.net",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Bangalore",
+      "Delhi"
+    ],
+    "total_months_of_experience": 69,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Data Analysis",
+      "TensorFlow",
+      "Statistics"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Bailey LLC",
+        "job_title": "Research Scientist (AI)",
+        "role": "Data Scientist",
+        "industry": "Software",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2018,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 23.6,
+    "current_annual_ctc": 18.61
+  },
+  {
+    "id": "cand-18",
+    "first_name": "Melissa",
+    "last_name": "Adams",
+    "primary_mobile_number": "3235177882765",
+    "primary_email": "gregory07@example.com",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Mumbai",
+      "Delhi"
+    ],
+    "total_months_of_experience": 46,
+    "skills": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Model Deployment",
+      "Feature Engineering",
+      "ML Ops"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Munoz-Bradley",
+        "job_title": "Data Analyst (ML)",
+        "role": "Data Scientist",
+        "industry": "Cloud Services",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "AI",
+        "year_of_completion": 2021,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 18.69,
+    "current_annual_ctc": 15.83
+  },
+  {
+    "id": "cand-19",
+    "first_name": "Christopher",
+    "last_name": "Gutierrez",
+    "primary_mobile_number": "2655533363022",
+    "primary_email": "robertataylor@example.com",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 86,
+    "skills": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Model Deployment",
+      "Feature Engineering",
+      "ML Ops"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Benson, Haney and Stephens",
+        "job_title": "AI Specialist",
+        "role": "Data Scientist",
+        "industry": "Cloud Services",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Web Development",
+        "year_of_completion": 2016,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 16.9,
+    "current_annual_ctc": 14.2
+  },
+  {
+    "id": "cand-20",
+    "first_name": "Nancy",
+    "last_name": "Hill",
+    "primary_mobile_number": "5935202899598",
+    "primary_email": "anna96@example.net",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Delhi",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 50,
+    "skills": [
+      "Data Modelling",
+      "Predictive Analytics",
+      "SciKit-Learn",
+      "ML Pipelines",
+      "EDA"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Davis LLC",
+        "job_title": "Research Scientist (AI)",
+        "role": "Data Scientist",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Web Development",
+        "year_of_completion": 2015,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 20.14,
+    "current_annual_ctc": 17.3
+  },
+  {
+    "id": "cand-21",
+    "first_name": "Steven",
+    "last_name": "Foster",
+    "primary_mobile_number": "2045869292049",
+    "primary_email": "ydelgado@example.com",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Mumbai",
+      "Pune"
+    ],
+    "total_months_of_experience": 55,
+    "skills": [
+      "Go",
+      "gRPC",
+      "PostgreSQL",
+      "Caching",
+      "Load Balancing"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Mason-Roberts",
+        "job_title": "Software Engineer (Backend)",
+        "role": "Backend Developer",
+        "industry": "Software",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Big Data",
+        "year_of_completion": 2020,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 21.72,
+    "current_annual_ctc": 17.7
+  },
+  {
+    "id": "cand-22",
+    "first_name": "Mark",
+    "last_name": "Cortez",
+    "primary_mobile_number": "5406050020684",
+    "primary_email": "andreasimpson@example.org",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Mumbai",
+      "Pune"
+    ],
+    "total_months_of_experience": 40,
+    "skills": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "API Testing",
+      "Docker"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Jones, Black and Zamora",
+        "job_title": "API Developer",
+        "role": "Backend Developer",
+        "industry": "Software",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Data Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2023,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 23.09,
+    "current_annual_ctc": 19.31
+  },
+  {
+    "id": "cand-23",
+    "first_name": "Joshua",
+    "last_name": "Bauer",
+    "primary_mobile_number": "3682414987237",
+    "primary_email": "ariel59@example.org",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Bangalore",
+      "Pune"
+    ],
+    "total_months_of_experience": 24,
+    "skills": [
+      "Go",
+      "gRPC",
+      "PostgreSQL",
+      "Caching",
+      "Load Balancing"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Hill-Brooks",
+        "job_title": "Backend Engineer",
+        "role": "Backend Developer",
+        "industry": "Analytics",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Computer Science",
+        "specialization": "AI",
+        "year_of_completion": 2017,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 28.0,
+    "current_annual_ctc": 22.26
+  },
+  {
+    "id": "cand-24",
+    "first_name": "Jonathan",
+    "last_name": "Torres",
+    "primary_mobile_number": "1830435563411",
+    "primary_email": "eric37@example.com",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Bangalore",
+      "Delhi"
+    ],
+    "total_months_of_experience": 21,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "REST APIs",
+      "Hibernate"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Davidson-Randall",
+        "job_title": "Backend Developer",
+        "role": "Backend Developer",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "AI",
+        "year_of_completion": 2020,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 14.42,
+    "current_annual_ctc": 11.16
+  },
+  {
+    "id": "cand-25",
+    "first_name": "Hailey",
+    "last_name": "Shelton",
+    "primary_mobile_number": "7008999080287",
+    "primary_email": "floreskathy@example.com",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Mumbai",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 54,
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "GraphQL",
+      "API Security"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Ford-Clark",
+        "job_title": "Backend Developer",
+        "role": "Backend Developer",
+        "industry": "Analytics",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2018,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 12.15,
+    "current_annual_ctc": 9.39
+  },
+  {
+    "id": "cand-26",
+    "first_name": "Toni",
+    "last_name": "House",
+    "primary_mobile_number": "6108689168931",
+    "primary_email": "mbentley@example.com",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 47,
+    "skills": [
+      "Go",
+      "gRPC",
+      "PostgreSQL",
+      "Caching",
+      "Load Balancing"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Hogan, Vargas and Hopkins",
+        "job_title": "API Developer",
+        "role": "Backend Developer",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Web Development",
+        "year_of_completion": 2017,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 21.09,
+    "current_annual_ctc": 20.01
+  },
+  {
+    "id": "cand-27",
+    "first_name": "Timothy",
+    "last_name": "Williams",
+    "primary_mobile_number": "3204619191295",
+    "primary_email": "vmason@example.org",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Delhi",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 44,
+    "skills": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "API Testing",
+      "Docker"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Bennett-Benitez",
+        "job_title": "Backend Engineer",
+        "role": "Backend Developer",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Data Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2020,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 34.71,
+    "current_annual_ctc": 28.44
+  },
+  {
+    "id": "cand-28",
+    "first_name": "Rachel",
+    "last_name": "Mcclain",
+    "primary_mobile_number": "9283325549910",
+    "primary_email": "kirbysierra@example.net",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 61,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "REST APIs",
+      "Hibernate"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Love Ltd",
+        "job_title": "Backend Developer",
+        "role": "Backend Developer",
+        "industry": "Cloud Services",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Big Data",
+        "year_of_completion": 2020,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 31.56,
+    "current_annual_ctc": 25.5
+  },
+  {
+    "id": "cand-29",
+    "first_name": "Susan",
+    "last_name": "Murphy",
+    "primary_mobile_number": "8554987966287",
+    "primary_email": "abailey@example.net",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Mumbai",
+      "Delhi"
+    ],
+    "total_months_of_experience": 22,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "REST APIs",
+      "Django"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Davis-Ortega",
+        "job_title": "Server-Side Developer",
+        "role": "Backend Developer",
+        "industry": "Software",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Big Data",
+        "year_of_completion": 2017,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 32.65,
+    "current_annual_ctc": 25.18
+  },
+  {
+    "id": "cand-30",
+    "first_name": "Christopher",
+    "last_name": "Kane",
+    "primary_mobile_number": "3664151144435",
+    "primary_email": "fpearson@example.com",
+    "current_city": "Hyderabad",
+    "preferred_cities": [
+      "Delhi",
+      "Pune"
+    ],
+    "total_months_of_experience": 55,
+    "skills": [
+      "Go",
+      "gRPC",
+      "PostgreSQL",
+      "Caching",
+      "Load Balancing"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Palmer-Heath",
+        "job_title": "Backend Developer",
+        "role": "Backend Developer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Data Science",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2023,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 31.05,
+    "current_annual_ctc": 25.52
+  },
+  {
+    "id": "cand-31",
+    "first_name": "Elijah",
+    "last_name": "Romero",
+    "primary_mobile_number": "9207872330005",
+    "primary_email": "millstracy@example.net",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Delhi",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 69,
+    "skills": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "API Testing",
+      "Docker"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Campbell-Gonzalez",
+        "job_title": "Backend Developer",
+        "role": "Backend Developer",
+        "industry": "Software",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Big Data",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 25.99,
+    "current_annual_ctc": 20.4
+  },
+  {
+    "id": "cand-32",
+    "first_name": "William",
+    "last_name": "Weiss",
+    "primary_mobile_number": "3487153555173",
+    "primary_email": "heathergordon@example.com",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Pune",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 38,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "REST APIs",
+      "Hibernate"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Rosales Ltd",
+        "job_title": "Server-Side Developer",
+        "role": "Backend Developer",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2015,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 13.7,
+    "current_annual_ctc": 10.58
+  },
+  {
+    "id": "cand-33",
+    "first_name": "Roger",
+    "last_name": "Sullivan",
+    "primary_mobile_number": "8347116117876",
+    "primary_email": "larrycunningham@example.org",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Bangalore",
+      "Pune"
+    ],
+    "total_months_of_experience": 56,
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "GraphQL",
+      "API Security"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Bass PLC",
+        "job_title": "Software Engineer (Backend)",
+        "role": "Backend Developer",
+        "industry": "Software",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Big Data",
+        "year_of_completion": 2023,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 14.46,
+    "current_annual_ctc": 11.16
+  },
+  {
+    "id": "cand-34",
+    "first_name": "Jesus",
+    "last_name": "Lewis",
+    "primary_mobile_number": "8695087704501",
+    "primary_email": "omontgomery@example.net",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Hyderabad",
+      "Pune"
+    ],
+    "total_months_of_experience": 53,
+    "skills": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "API Testing",
+      "Docker"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Cline, Carlson and Nichols",
+        "job_title": "API Developer",
+        "role": "Backend Developer",
+        "industry": "Analytics",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 36.31,
+    "current_annual_ctc": 29.83
+  },
+  {
+    "id": "cand-35",
+    "first_name": "Grant",
+    "last_name": "Little",
+    "primary_mobile_number": "4308944371562",
+    "primary_email": "lance41@example.com",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 44,
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "GraphQL",
+      "API Security"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Humphrey, Smith and Carroll",
+        "job_title": "Software Engineer (Backend)",
+        "role": "Backend Developer",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 17.75,
+    "current_annual_ctc": 14.22
+  },
+  {
+    "id": "cand-36",
+    "first_name": "Deborah",
+    "last_name": "West",
+    "primary_mobile_number": "9595094461761",
+    "primary_email": "heatherjackson@example.org",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Bangalore",
+      "Delhi"
+    ],
+    "total_months_of_experience": 18,
+    "skills": [
+      "Go",
+      "gRPC",
+      "PostgreSQL",
+      "Caching",
+      "Load Balancing"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Brooks Group",
+        "job_title": "Server-Side Developer",
+        "role": "Backend Developer",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Big Data",
+        "year_of_completion": 2015,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 22.91,
+    "current_annual_ctc": 17.66
+  },
+  {
+    "id": "cand-37",
+    "first_name": "Jose",
+    "last_name": "Mccarty",
+    "primary_mobile_number": "2034763753634",
+    "primary_email": "johnrhodes@example.net",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 28,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "REST APIs",
+      "Hibernate"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Avila Inc",
+        "job_title": "API Developer",
+        "role": "Backend Developer",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2018,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 21.78,
+    "current_annual_ctc": 19.81
+  },
+  {
+    "id": "cand-38",
+    "first_name": "Riley",
+    "last_name": "Taylor",
+    "primary_mobile_number": "3022752824274",
+    "primary_email": "williamsryan@example.com",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Delhi",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 63,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "REST APIs",
+      "Hibernate"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Chavez-Wilson",
+        "job_title": "API Developer",
+        "role": "Backend Developer",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Web Development",
+        "year_of_completion": 2015,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 12.43,
+    "current_annual_ctc": 10.02
+  },
+  {
+    "id": "cand-39",
+    "first_name": "Kevin",
+    "last_name": "Patterson",
+    "primary_mobile_number": "0603604476304",
+    "primary_email": "mcdonaldkelly@example.com",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Hyderabad",
+      "Pune"
+    ],
+    "total_months_of_experience": 38,
+    "skills": [
+      "Go",
+      "gRPC",
+      "PostgreSQL",
+      "Caching",
+      "Load Balancing"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Gray LLC",
+        "job_title": "Software Engineer (Backend)",
+        "role": "Backend Developer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "AI",
+        "year_of_completion": 2023,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 16.77,
+    "current_annual_ctc": 13.35
+  },
+  {
+    "id": "cand-40",
+    "first_name": "Denise",
+    "last_name": "Keller",
+    "primary_mobile_number": "9059161773573",
+    "primary_email": "iobrien@example.net",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Bangalore",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 30,
+    "skills": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "API Testing",
+      "Docker"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Thomas, Hodges and Castillo",
+        "job_title": "Server-Side Developer",
+        "role": "Backend Developer",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2017,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 24.83,
+    "current_annual_ctc": 22.17
+  },
+  {
+    "id": "cand-41",
+    "first_name": "Marcus",
+    "last_name": "James",
+    "primary_mobile_number": "7731358529728",
+    "primary_email": "fostererin@example.net",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Bangalore",
+      "Pune"
+    ],
+    "total_months_of_experience": 24,
+    "skills": [
+      "Angular",
+      "TypeScript",
+      "CSS3",
+      "Responsive Design",
+      "RxJS"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Mills-Ray",
+        "job_title": "React Developer",
+        "role": "Frontend Developer",
+        "industry": "Cloud Services",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2015,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 8.97,
+    "current_annual_ctc": 8.08
+  },
+  {
+    "id": "cand-42",
+    "first_name": "Gary",
+    "last_name": "Buchanan",
+    "primary_mobile_number": "6983861928088",
+    "primary_email": "hrice@example.net",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Pune",
+      "Delhi"
+    ],
+    "total_months_of_experience": 34,
+    "skills": [
+      "Vue.js",
+      "JavaScript",
+      "SCSS",
+      "Bootstrap",
+      "HTML5"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Ramsey-Sullivan",
+        "job_title": "JavaScript Engineer",
+        "role": "Frontend Developer",
+        "industry": "Software",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Web Development",
+        "year_of_completion": 2015,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 9.59,
+    "current_annual_ctc": 7.87
+  },
+  {
+    "id": "cand-43",
+    "first_name": "Thomas",
+    "last_name": "Wright",
+    "primary_mobile_number": "4620165237743",
+    "primary_email": "brandon05@example.net",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Pune",
+      "Delhi"
+    ],
+    "total_months_of_experience": 59,
+    "skills": [
+      "React",
+      "TailwindCSS",
+      "Next.js",
+      "JavaScript",
+      "Styled Components"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Ramos, Walsh and Stark",
+        "job_title": "Frontend Developer",
+        "role": "Frontend Developer",
+        "industry": "Software",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Big Data",
+        "year_of_completion": 2016,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 17.78,
+    "current_annual_ctc": 13.76
+  },
+  {
+    "id": "cand-44",
+    "first_name": "Jeffrey",
+    "last_name": "Richards",
+    "primary_mobile_number": "2382909024479",
+    "primary_email": "youngdanny@example.org",
+    "current_city": "Hyderabad",
+    "preferred_cities": [
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 43,
+    "skills": [
+      "Svelte",
+      "JavaScript",
+      "CSS Grid",
+      "Flexbox",
+      "HTML5"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Reynolds, Kane and Davis",
+        "job_title": "UI Engineer",
+        "role": "Frontend Developer",
+        "industry": "Software",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2020,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 8.58,
+    "current_annual_ctc": 7.26
+  },
+  {
+    "id": "cand-45",
+    "first_name": "Mark",
+    "last_name": "Stone",
+    "primary_mobile_number": "9240784106663",
+    "primary_email": "stephanieward@example.org",
+    "current_city": "Hyderabad",
+    "preferred_cities": [
+      "Bangalore",
+      "Pune"
+    ],
+    "total_months_of_experience": 42,
+    "skills": [
+      "React",
+      "TailwindCSS",
+      "Next.js",
+      "JavaScript",
+      "Styled Components"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Wilson-Morris",
+        "job_title": "Web Developer (Frontend)",
+        "role": "Frontend Developer",
+        "industry": "Cloud Services",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "AI",
+        "year_of_completion": 2020,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 13.93,
+    "current_annual_ctc": 13.15
+  },
+  {
+    "id": "cand-46",
+    "first_name": "Chelsey",
+    "last_name": "Stewart",
+    "primary_mobile_number": "2388266495233",
+    "primary_email": "kmichael@example.com",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Pune",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 36,
+    "skills": [
+      "Svelte",
+      "JavaScript",
+      "CSS Grid",
+      "Flexbox",
+      "HTML5"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Duke LLC",
+        "job_title": "JavaScript Engineer",
+        "role": "Frontend Developer",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Computer Science",
+        "specialization": "AI",
+        "year_of_completion": 2023,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 16.6,
+    "current_annual_ctc": 15.32
+  },
+  {
+    "id": "cand-47",
+    "first_name": "Brian",
+    "last_name": "Miller",
+    "primary_mobile_number": "5151084231128",
+    "primary_email": "megan73@example.com",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Pune",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 68,
+    "skills": [
+      "Svelte",
+      "JavaScript",
+      "CSS Grid",
+      "Flexbox",
+      "HTML5"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "King LLC",
+        "job_title": "JavaScript Engineer",
+        "role": "Frontend Developer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2022,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 26.75,
+    "current_annual_ctc": 24.42
+  },
+  {
+    "id": "cand-48",
+    "first_name": "David",
+    "last_name": "Levine",
+    "primary_mobile_number": "5612784642477",
+    "primary_email": "pperez@example.net",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 22,
+    "skills": [
+      "Svelte",
+      "JavaScript",
+      "CSS Grid",
+      "Flexbox",
+      "HTML5"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Cantrell-Smith",
+        "job_title": "Web Developer (Frontend)",
+        "role": "Frontend Developer",
+        "industry": "Analytics",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Data Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2015,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 13.4,
+    "current_annual_ctc": 12.15
+  },
+  {
+    "id": "cand-49",
+    "first_name": "Gregory",
+    "last_name": "Miranda",
+    "primary_mobile_number": "4258756133234",
+    "primary_email": "alangutierrez@example.com",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Hyderabad",
+      "Pune"
+    ],
+    "total_months_of_experience": 49,
+    "skills": [
+      "React",
+      "TailwindCSS",
+      "Next.js",
+      "JavaScript",
+      "Styled Components"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Caldwell, Jacobs and Oconnor",
+        "job_title": "React Developer",
+        "role": "Frontend Developer",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2021,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 19.84,
+    "current_annual_ctc": 16.63
+  },
+  {
+    "id": "cand-50",
+    "first_name": "Jasmine",
+    "last_name": "Smith",
+    "primary_mobile_number": "5084246635303",
+    "primary_email": "ifreeman@example.net",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 18,
+    "skills": [
+      "Vue.js",
+      "JavaScript",
+      "SCSS",
+      "Bootstrap",
+      "HTML5"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Bennett, Meadows and Murphy",
+        "job_title": "Frontend Developer",
+        "role": "Frontend Developer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Web Development",
+        "year_of_completion": 2016,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 7.65,
+    "current_annual_ctc": 6.02
+  },
+  {
+    "id": "cand-51",
+    "first_name": "Linda",
+    "last_name": "Cameron",
+    "primary_mobile_number": "4063173229103",
+    "primary_email": "jack38@example.net",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 22,
+    "skills": [
+      "Angular",
+      "TypeScript",
+      "CSS3",
+      "Responsive Design",
+      "RxJS"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "King Group",
+        "job_title": "JavaScript Engineer",
+        "role": "Frontend Developer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Web Development",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 26.35,
+    "current_annual_ctc": 21.07
+  },
+  {
+    "id": "cand-52",
+    "first_name": "Steven",
+    "last_name": "Hopkins",
+    "primary_mobile_number": "1186406763439",
+    "primary_email": "glenn55@example.com",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Delhi",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 48,
+    "skills": [
+      "React",
+      "TailwindCSS",
+      "Next.js",
+      "JavaScript",
+      "Styled Components"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Parker PLC",
+        "job_title": "JavaScript Engineer",
+        "role": "Frontend Developer",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Data Science",
+        "specialization": "Big Data",
+        "year_of_completion": 2023,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 10.82,
+    "current_annual_ctc": 9.97
+  },
+  {
+    "id": "cand-53",
+    "first_name": "Justin",
+    "last_name": "Henry",
+    "primary_mobile_number": "1364071164253",
+    "primary_email": "derrick02@example.net",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Hyderabad",
+      "Pune"
+    ],
+    "total_months_of_experience": 30,
+    "skills": [
+      "Vue.js",
+      "JavaScript",
+      "SCSS",
+      "Bootstrap",
+      "HTML5"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Miller-Crawford",
+        "job_title": "JavaScript Engineer",
+        "role": "Frontend Developer",
+        "industry": "Analytics",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2018,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 6.77,
+    "current_annual_ctc": 6.18
+  },
+  {
+    "id": "cand-54",
+    "first_name": "Kimberly",
+    "last_name": "Marshall",
+    "primary_mobile_number": "9334530494624",
+    "primary_email": "xfry@example.org",
+    "current_city": "Hyderabad",
+    "preferred_cities": [
+      "Bangalore",
+      "Pune"
+    ],
+    "total_months_of_experience": 13,
+    "skills": [
+      "Vue.js",
+      "JavaScript",
+      "SCSS",
+      "Bootstrap",
+      "HTML5"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Lucas Ltd",
+        "job_title": "Web Developer (Frontend)",
+        "role": "Frontend Developer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Web Development",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 26.84,
+    "current_annual_ctc": 21.91
+  },
+  {
+    "id": "cand-55",
+    "first_name": "Ryan",
+    "last_name": "Jacobson",
+    "primary_mobile_number": "7662309629814",
+    "primary_email": "sharonharris@example.net",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Bangalore",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 44,
+    "skills": [
+      "React",
+      "TailwindCSS",
+      "Next.js",
+      "JavaScript",
+      "Styled Components"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Williams Group",
+        "job_title": "React Developer",
+        "role": "Frontend Developer",
+        "industry": "Software",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 27.98,
+    "current_annual_ctc": 22.49
+  },
+  {
+    "id": "cand-56",
+    "first_name": "Cody",
+    "last_name": "Cox",
+    "primary_mobile_number": "1528939802563",
+    "primary_email": "robertrandall@example.com",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 16,
+    "skills": [
+      "Angular",
+      "TypeScript",
+      "CSS3",
+      "Responsive Design",
+      "RxJS"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Smith LLC",
+        "job_title": "Web Developer (Frontend)",
+        "role": "Frontend Developer",
+        "industry": "Software",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 29.32,
+    "current_annual_ctc": 24.79
+  },
+  {
+    "id": "cand-57",
+    "first_name": "Wanda",
+    "last_name": "Williams",
+    "primary_mobile_number": "8627944547594",
+    "primary_email": "sullivandawn@example.org",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 41,
+    "skills": [
+      "React",
+      "TailwindCSS",
+      "Next.js",
+      "JavaScript",
+      "Styled Components"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Vega Inc",
+        "job_title": "UI Engineer",
+        "role": "Frontend Developer",
+        "industry": "Analytics",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Data Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2016,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 20.63,
+    "current_annual_ctc": 17.1
+  },
+  {
+    "id": "cand-58",
+    "first_name": "Kevin",
+    "last_name": "Barnes",
+    "primary_mobile_number": "5489439379746",
+    "primary_email": "wdixon@example.net",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Bangalore",
+      "Pune"
+    ],
+    "total_months_of_experience": 59,
+    "skills": [
+      "JavaScript",
+      "React",
+      "CSS",
+      "HTML",
+      "TypeScript"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Barron PLC",
+        "job_title": "JavaScript Engineer",
+        "role": "Frontend Developer",
+        "industry": "Software",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2019,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 25.76,
+    "current_annual_ctc": 23.39
+  },
+  {
+    "id": "cand-59",
+    "first_name": "Chloe",
+    "last_name": "Smith",
+    "primary_mobile_number": "1947865586672",
+    "primary_email": "ricky77@example.org",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 38,
+    "skills": [
+      "Angular",
+      "TypeScript",
+      "CSS3",
+      "Responsive Design",
+      "RxJS"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Carpenter Group",
+        "job_title": "React Developer",
+        "role": "Frontend Developer",
+        "industry": "Analytics",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Big Data",
+        "year_of_completion": 2016,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 17.32,
+    "current_annual_ctc": 15.44
+  },
+  {
+    "id": "cand-60",
+    "first_name": "Kathryn",
+    "last_name": "Tate",
+    "primary_mobile_number": "9551093253325",
+    "primary_email": "maxwelljay@example.org",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Pune",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 16,
+    "skills": [
+      "React",
+      "TailwindCSS",
+      "Next.js",
+      "JavaScript",
+      "Styled Components"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Brooks, Wolf and Boyer",
+        "job_title": "JavaScript Engineer",
+        "role": "Frontend Developer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "AI",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 24.87,
+    "current_annual_ctc": 22.83
+  },
+  {
+    "id": "cand-61",
+    "first_name": "Deborah",
+    "last_name": "Medina",
+    "primary_mobile_number": "4821156379860",
+    "primary_email": "michael45@example.com",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Delhi",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 45,
+    "skills": [
+      "GCP",
+      "Docker Swarm",
+      "Ansible",
+      "Jenkins",
+      "Monitoring"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Bryant, Winters and Washington",
+        "job_title": "Site Reliability Engineer",
+        "role": "DevOps Engineer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "AI",
+        "year_of_completion": 2017,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 15.81,
+    "current_annual_ctc": 13.05
+  },
+  {
+    "id": "cand-62",
+    "first_name": "Brianna",
+    "last_name": "Lopez",
+    "primary_mobile_number": "3946341387778",
+    "primary_email": "barrygriffin@example.net",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Mumbai",
+      "Pune"
+    ],
+    "total_months_of_experience": 47,
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "AWS Lambda",
+      "ECS",
+      "Security"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Dudley, Quinn and Kelly",
+        "job_title": "DevOps Engineer",
+        "role": "DevOps Engineer",
+        "industry": "Software",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Web Development",
+        "year_of_completion": 2019,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 32.97,
+    "current_annual_ctc": 27.77
+  },
+  {
+    "id": "cand-63",
+    "first_name": "Katherine",
+    "last_name": "Robertson",
+    "primary_mobile_number": "9279276365959",
+    "primary_email": "jacqueline51@example.com",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Delhi",
+      "Pune"
+    ],
+    "total_months_of_experience": 60,
+    "skills": [
+      "AWS",
+      "CloudFormation",
+      "Bash",
+      "Prometheus",
+      "Grafana"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Patel, Porter and Hayes",
+        "job_title": "Cloud Engineer",
+        "role": "DevOps Engineer",
+        "industry": "Software",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "AI",
+        "year_of_completion": 2015,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 16.79,
+    "current_annual_ctc": 13.45
+  },
+  {
+    "id": "cand-64",
+    "first_name": "Thomas",
+    "last_name": "Carter",
+    "primary_mobile_number": "1565775396823",
+    "primary_email": "andrewsdebra@example.net",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Pune",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 72,
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "AWS Lambda",
+      "ECS",
+      "Security"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Holland-Lucas",
+        "job_title": "Site Reliability Engineer",
+        "role": "DevOps Engineer",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "AI",
+        "year_of_completion": 2023,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 17.67,
+    "current_annual_ctc": 16.5
+  },
+  {
+    "id": "cand-65",
+    "first_name": "Holly",
+    "last_name": "Marsh",
+    "primary_mobile_number": "8365981591982",
+    "primary_email": "skinnersara@example.com",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Hyderabad",
+      "Delhi"
+    ],
+    "total_months_of_experience": 92,
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "AWS Lambda",
+      "ECS",
+      "Security"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Franco-Hernandez",
+        "job_title": "Platform Engineer",
+        "role": "DevOps Engineer",
+        "industry": "Cloud Services",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "AI",
+        "year_of_completion": 2020,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 26.57,
+    "current_annual_ctc": 23.66
+  },
+  {
+    "id": "cand-66",
+    "first_name": "John",
+    "last_name": "Mendoza",
+    "primary_mobile_number": "3668621187725",
+    "primary_email": "cherylpearson@example.org",
+    "current_city": "Hyderabad",
+    "preferred_cities": [
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 98,
+    "skills": [
+      "GCP",
+      "Docker Swarm",
+      "Ansible",
+      "Jenkins",
+      "Monitoring"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Brooks, Macias and Nguyen",
+        "job_title": "Platform Engineer",
+        "role": "DevOps Engineer",
+        "industry": "Software",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Web Development",
+        "year_of_completion": 2017,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 38.44,
+    "current_annual_ctc": 30.01
+  },
+  {
+    "id": "cand-67",
+    "first_name": "Michelle",
+    "last_name": "Sanchez",
+    "primary_mobile_number": "2616494249720",
+    "primary_email": "jimmybell@example.org",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Delhi",
+      "Pune"
+    ],
+    "total_months_of_experience": 34,
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "AWS Lambda",
+      "ECS",
+      "Security"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Lee-Jackson",
+        "job_title": "Site Reliability Engineer",
+        "role": "DevOps Engineer",
+        "industry": "Analytics",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Web Development",
+        "year_of_completion": 2021,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 18.49,
+    "current_annual_ctc": 14.57
+  },
+  {
+    "id": "cand-68",
+    "first_name": "Erik",
+    "last_name": "Cox",
+    "primary_mobile_number": "6841555796475",
+    "primary_email": "vrobinson@example.org",
+    "current_city": "Hyderabad",
+    "preferred_cities": [
+      "Pune",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 82,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Terraform"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Scott-Higgins",
+        "job_title": "Platform Engineer",
+        "role": "DevOps Engineer",
+        "industry": "Analytics",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Big Data",
+        "year_of_completion": 2015,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 20.42,
+    "current_annual_ctc": 16.25
+  },
+  {
+    "id": "cand-69",
+    "first_name": "Sharon",
+    "last_name": "Miller",
+    "primary_mobile_number": "9644862085830",
+    "primary_email": "kelly53@example.org",
+    "current_city": "Hyderabad",
+    "preferred_cities": [
+      "Pune",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 97,
+    "skills": [
+      "AWS",
+      "CloudFormation",
+      "Bash",
+      "Prometheus",
+      "Grafana"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Pierce, Smith and Torres",
+        "job_title": "Site Reliability Engineer",
+        "role": "DevOps Engineer",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2016,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 26.67,
+    "current_annual_ctc": 23.82
+  },
+  {
+    "id": "cand-70",
+    "first_name": "Rebecca",
+    "last_name": "Brock",
+    "primary_mobile_number": "7439300877434",
+    "primary_email": "hannahreese@example.net",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Hyderabad",
+      "Pune"
+    ],
+    "total_months_of_experience": 59,
+    "skills": [
+      "Azure",
+      "Kubernetes",
+      "Helm",
+      "GitLab CI",
+      "Infrastructure as Code"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Lopez-Owens",
+        "job_title": "Site Reliability Engineer",
+        "role": "DevOps Engineer",
+        "industry": "Software",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Data Science",
+        "specialization": "AI",
+        "year_of_completion": 2023,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 33.07,
+    "current_annual_ctc": 27.36
+  },
+  {
+    "id": "cand-71",
+    "first_name": "Victor",
+    "last_name": "Jones",
+    "primary_mobile_number": "9802594857780",
+    "primary_email": "garciatyler@example.com",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Hyderabad",
+      "Pune"
+    ],
+    "total_months_of_experience": 77,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Terraform"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Owens LLC",
+        "job_title": "Platform Engineer",
+        "role": "DevOps Engineer",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Data Science",
+        "specialization": "Web Development",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 21.26,
+    "current_annual_ctc": 17.91
+  },
+  {
+    "id": "cand-72",
+    "first_name": "Nicholas",
+    "last_name": "Adkins",
+    "primary_mobile_number": "3662334905582",
+    "primary_email": "moorerandall@example.org",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Pune",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 38,
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "AWS Lambda",
+      "ECS",
+      "Security"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Rivera-Long",
+        "job_title": "Platform Engineer",
+        "role": "DevOps Engineer",
+        "industry": "Analytics",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2023,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 30.78,
+    "current_annual_ctc": 27.39
+  },
+  {
+    "id": "cand-73",
+    "first_name": "Brian",
+    "last_name": "Romero",
+    "primary_mobile_number": "3654425147199",
+    "primary_email": "hrodriguez@example.net",
+    "current_city": "Hyderabad",
+    "preferred_cities": [
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 101,
+    "skills": [
+      "GCP",
+      "Docker Swarm",
+      "Ansible",
+      "Jenkins",
+      "Monitoring"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Smith, Zhang and Juarez",
+        "job_title": "Infrastructure Engineer",
+        "role": "DevOps Engineer",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Big Data",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 13.38,
+    "current_annual_ctc": 10.35
+  },
+  {
+    "id": "cand-74",
+    "first_name": "Megan",
+    "last_name": "Weeks",
+    "primary_mobile_number": "6796761791259",
+    "primary_email": "dean43@example.net",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Hyderabad",
+      "Delhi"
+    ],
+    "total_months_of_experience": 97,
+    "skills": [
+      "GCP",
+      "Docker Swarm",
+      "Ansible",
+      "Jenkins",
+      "Monitoring"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Stanley Inc",
+        "job_title": "Cloud Engineer",
+        "role": "DevOps Engineer",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Web Development",
+        "year_of_completion": 2018,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 38.41,
+    "current_annual_ctc": 34.1
+  },
+  {
+    "id": "cand-75",
+    "first_name": "Emily",
+    "last_name": "Mcclain",
+    "primary_mobile_number": "6096543127327",
+    "primary_email": "daughertyjeffrey@example.org",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 62,
+    "skills": [
+      "AWS",
+      "CloudFormation",
+      "Bash",
+      "Prometheus",
+      "Grafana"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Bowman-Rogers",
+        "job_title": "Site Reliability Engineer",
+        "role": "DevOps Engineer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Data Science",
+        "specialization": "AI",
+        "year_of_completion": 2021,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 14.54,
+    "current_annual_ctc": 13.66
+  },
+  {
+    "id": "cand-76",
+    "first_name": "Shelby",
+    "last_name": "Anthony",
+    "primary_mobile_number": "1511076456216",
+    "primary_email": "burnskara@example.com",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Delhi",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 88,
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "AWS Lambda",
+      "ECS",
+      "Security"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Davis-Olson",
+        "job_title": "Cloud Engineer",
+        "role": "DevOps Engineer",
+        "industry": "Cloud Services",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2017,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 27.14,
+    "current_annual_ctc": 23.87
+  },
+  {
+    "id": "cand-77",
+    "first_name": "Michael",
+    "last_name": "Ross",
+    "primary_mobile_number": "5039645870755",
+    "primary_email": "jonathan73@example.org",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Bangalore",
+      "Delhi"
+    ],
+    "total_months_of_experience": 37,
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "AWS Lambda",
+      "ECS",
+      "Security"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Oliver, Garcia and Garcia",
+        "job_title": "Platform Engineer",
+        "role": "DevOps Engineer",
+        "industry": "Cloud Services",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Big Data",
+        "year_of_completion": 2022,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 41.41,
+    "current_annual_ctc": 35.58
+  },
+  {
+    "id": "cand-78",
+    "first_name": "Shelly",
+    "last_name": "Thompson",
+    "primary_mobile_number": "5331044272157",
+    "primary_email": "marydowns@example.com",
+    "current_city": "Hyderabad",
+    "preferred_cities": [
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 96,
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "AWS Lambda",
+      "ECS",
+      "Security"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Myers-Keith",
+        "job_title": "Infrastructure Engineer",
+        "role": "DevOps Engineer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Web Development",
+        "year_of_completion": 2018,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 40.54,
+    "current_annual_ctc": 33.26
+  },
+  {
+    "id": "cand-79",
+    "first_name": "Elizabeth",
+    "last_name": "Jones",
+    "primary_mobile_number": "9428232579874",
+    "primary_email": "rachellambert@example.com",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Mumbai",
+      "Pune"
+    ],
+    "total_months_of_experience": 59,
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "AWS Lambda",
+      "ECS",
+      "Security"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Richards-Thomas",
+        "job_title": "Site Reliability Engineer",
+        "role": "DevOps Engineer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2023,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 17.55,
+    "current_annual_ctc": 14.73
+  },
+  {
+    "id": "cand-80",
+    "first_name": "Rebecca",
+    "last_name": "Booker",
+    "primary_mobile_number": "5224234697952",
+    "primary_email": "sheilawalsh@example.net",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 67,
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "AWS Lambda",
+      "ECS",
+      "Security"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Carroll, Chavez and Henderson",
+        "job_title": "DevOps Engineer",
+        "role": "DevOps Engineer",
+        "industry": "Software",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Data Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2015,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 28.26,
+    "current_annual_ctc": 24.41
+  },
+  {
+    "id": "cand-81",
+    "first_name": "Jennifer",
+    "last_name": "Rodriguez",
+    "primary_mobile_number": "8624443253236",
+    "primary_email": "aguilarallison@example.org",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Pune",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 48,
+    "skills": [
+      "Kafka",
+      "Spark",
+      "Data Lakes",
+      "Delta Lake",
+      "ETL"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Smith, Cook and Robertson",
+        "job_title": "Data Infrastructure Engineer",
+        "role": "Data Engineer",
+        "industry": "Cloud Services",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Web Development",
+        "year_of_completion": 2023,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 32.86,
+    "current_annual_ctc": 30.59
+  },
+  {
+    "id": "cand-82",
+    "first_name": "Victor",
+    "last_name": "James",
+    "primary_mobile_number": "9873775843469",
+    "primary_email": "stephanierivera@example.org",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Mumbai",
+      "Pune"
+    ],
+    "total_months_of_experience": 43,
+    "skills": [
+      "Snowflake",
+      "dbt",
+      "Airflow",
+      "Data Modeling",
+      "Cloud Dataflow"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Escobar Ltd",
+        "job_title": "ETL Developer",
+        "role": "Data Engineer",
+        "industry": "Software",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Big Data",
+        "year_of_completion": 2016,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 16.41,
+    "current_annual_ctc": 13.54
+  },
+  {
+    "id": "cand-83",
+    "first_name": "Johnathan",
+    "last_name": "Arnold",
+    "primary_mobile_number": "4298004314632",
+    "primary_email": "jenniferhenson@example.com",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 86,
+    "skills": [
+      "SQL",
+      "ETL",
+      "Apache Spark",
+      "Data Warehousing",
+      "Airflow"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Cook Inc",
+        "job_title": "Data Infrastructure Engineer",
+        "role": "Data Engineer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2019,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 41.09,
+    "current_annual_ctc": 36.96
+  },
+  {
+    "id": "cand-84",
+    "first_name": "James",
+    "last_name": "Burnett",
+    "primary_mobile_number": "2976833881700",
+    "primary_email": "samanthaortiz@example.org",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 88,
+    "skills": [
+      "Hadoop",
+      "Hive",
+      "ETL",
+      "Spark Streaming",
+      "Data Pipelines"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Wilson-Martin",
+        "job_title": "Data Infrastructure Engineer",
+        "role": "Data Engineer",
+        "industry": "Analytics",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Data Science",
+        "specialization": "Big Data",
+        "year_of_completion": 2016,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 44.58,
+    "current_annual_ctc": 35.38
+  },
+  {
+    "id": "cand-85",
+    "first_name": "Kenneth",
+    "last_name": "Rodriguez",
+    "primary_mobile_number": "6066442101558",
+    "primary_email": "jason55@example.com",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 25,
+    "skills": [
+      "AWS Glue",
+      "Athena",
+      "Redshift",
+      "ETL",
+      "S3"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Williams, Hill and Peters",
+        "job_title": "Data Engineer",
+        "role": "Data Engineer",
+        "industry": "Analytics",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Web Development",
+        "year_of_completion": 2023,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 40.29,
+    "current_annual_ctc": 37.96
+  },
+  {
+    "id": "cand-86",
+    "first_name": "Adam",
+    "last_name": "Nelson",
+    "primary_mobile_number": "0230001550636",
+    "primary_email": "dylan24@example.com",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Pune",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 62,
+    "skills": [
+      "AWS Glue",
+      "Athena",
+      "Redshift",
+      "ETL",
+      "S3"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Cruz, Harvey and Perry",
+        "job_title": "Pipeline Engineer",
+        "role": "Data Engineer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Data Science",
+        "specialization": "Web Development",
+        "year_of_completion": 2023,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 45.13,
+    "current_annual_ctc": 35.05
+  },
+  {
+    "id": "cand-87",
+    "first_name": "Amanda",
+    "last_name": "Williams",
+    "primary_mobile_number": "5205670492378",
+    "primary_email": "janderson@example.com",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Mumbai",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 50,
+    "skills": [
+      "Snowflake",
+      "dbt",
+      "Airflow",
+      "Data Modeling",
+      "Cloud Dataflow"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Hall, Wade and Ray",
+        "job_title": "Data Engineer",
+        "role": "Data Engineer",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Data Science",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2018,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 27.84,
+    "current_annual_ctc": 22.67
+  },
+  {
+    "id": "cand-88",
+    "first_name": "Kim",
+    "last_name": "Smith",
+    "primary_mobile_number": "2099318633330",
+    "primary_email": "christopher32@example.com",
+    "current_city": "Hyderabad",
+    "preferred_cities": [
+      "Pune",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 26,
+    "skills": [
+      "SQL",
+      "ETL",
+      "Apache Spark",
+      "Data Warehousing",
+      "Airflow"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Moore, Porter and Lopez",
+        "job_title": "Big Data Engineer",
+        "role": "Data Engineer",
+        "industry": "Analytics",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2016,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 34.6,
+    "current_annual_ctc": 30.89
+  },
+  {
+    "id": "cand-89",
+    "first_name": "Andrew",
+    "last_name": "Robinson",
+    "primary_mobile_number": "9412018143007",
+    "primary_email": "lynn47@example.org",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 62,
+    "skills": [
+      "AWS Glue",
+      "Athena",
+      "Redshift",
+      "ETL",
+      "S3"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Cabrera Ltd",
+        "job_title": "ETL Developer",
+        "role": "Data Engineer",
+        "industry": "Software",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Data Science",
+        "specialization": "Web Development",
+        "year_of_completion": 2021,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 23.25,
+    "current_annual_ctc": 19.99
+  },
+  {
+    "id": "cand-90",
+    "first_name": "Brian",
+    "last_name": "Williams",
+    "primary_mobile_number": "1208876092322",
+    "primary_email": "loriwalton@example.org",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 36,
+    "skills": [
+      "SQL",
+      "ETL",
+      "Apache Spark",
+      "Data Warehousing",
+      "Airflow"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Moore-Nash",
+        "job_title": "Data Engineer",
+        "role": "Data Engineer",
+        "industry": "Cloud Services",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Data Science",
+        "specialization": "AI",
+        "year_of_completion": 2021,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 17.13,
+    "current_annual_ctc": 14.66
+  },
+  {
+    "id": "cand-91",
+    "first_name": "John",
+    "last_name": "Harvey",
+    "primary_mobile_number": "8907189582659",
+    "primary_email": "latoyajohnson@example.org",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Pune",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 88,
+    "skills": [
+      "Kafka",
+      "Spark",
+      "Data Lakes",
+      "Delta Lake",
+      "ETL"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "White, Clark and Anderson",
+        "job_title": "Data Infrastructure Engineer",
+        "role": "Data Engineer",
+        "industry": "Analytics",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Data Science",
+        "specialization": "Web Development",
+        "year_of_completion": 2015,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 37.32,
+    "current_annual_ctc": 33.54
+  },
+  {
+    "id": "cand-92",
+    "first_name": "Sarah",
+    "last_name": "Miller",
+    "primary_mobile_number": "2949078633707",
+    "primary_email": "vcarr@example.net",
+    "current_city": "Mumbai",
+    "preferred_cities": [
+      "Pune",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 67,
+    "skills": [
+      "SQL",
+      "ETL",
+      "Apache Spark",
+      "Data Warehousing",
+      "Airflow"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Black Inc",
+        "job_title": "Data Infrastructure Engineer",
+        "role": "Data Engineer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "AI",
+        "year_of_completion": 2015,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 42.82,
+    "current_annual_ctc": 37.04
+  },
+  {
+    "id": "cand-93",
+    "first_name": "Michael",
+    "last_name": "Cannon",
+    "primary_mobile_number": "2313539387193",
+    "primary_email": "carrolltroy@example.com",
+    "current_city": "Delhi",
+    "preferred_cities": [
+      "Pune",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 49,
+    "skills": [
+      "Snowflake",
+      "dbt",
+      "Airflow",
+      "Data Modeling",
+      "Cloud Dataflow"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Riley Ltd",
+        "job_title": "Pipeline Engineer",
+        "role": "Data Engineer",
+        "industry": "Cloud Services",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Data Science",
+        "specialization": "AI",
+        "year_of_completion": 2021,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 40.14,
+    "current_annual_ctc": 35.19
+  },
+  {
+    "id": "cand-94",
+    "first_name": "Troy",
+    "last_name": "Rodriguez",
+    "primary_mobile_number": "9367916095447",
+    "primary_email": "reneesalazar@example.net",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Mumbai",
+      "Pune"
+    ],
+    "total_months_of_experience": 25,
+    "skills": [
+      "Snowflake",
+      "dbt",
+      "Airflow",
+      "Data Modeling",
+      "Cloud Dataflow"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Williams Group",
+        "job_title": "Pipeline Engineer",
+        "role": "Data Engineer",
+        "industry": "Software",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Computer Science",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 22.27,
+    "current_annual_ctc": 18.2
+  },
+  {
+    "id": "cand-95",
+    "first_name": "Jacob",
+    "last_name": "Thomas",
+    "primary_mobile_number": "9953984991779",
+    "primary_email": "olsondavid@example.net",
+    "current_city": "Hyderabad",
+    "preferred_cities": [
+      "Pune",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 25,
+    "skills": [
+      "Snowflake",
+      "dbt",
+      "Airflow",
+      "Data Modeling",
+      "Cloud Dataflow"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Acevedo LLC",
+        "job_title": "Data Engineer",
+        "role": "Data Engineer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Web Development",
+        "year_of_completion": 2015,
+        "course_type": "Full-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 25.12,
+    "current_annual_ctc": 21.43
+  },
+  {
+    "id": "cand-96",
+    "first_name": "Lauren",
+    "last_name": "Cox",
+    "primary_mobile_number": "6059933973611",
+    "primary_email": "sullivansharon@example.net",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Delhi",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 71,
+    "skills": [
+      "Hadoop",
+      "Hive",
+      "ETL",
+      "Spark Streaming",
+      "Data Pipelines"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Franco and Sons",
+        "job_title": "Data Engineer",
+        "role": "Data Engineer",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2019,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 17.83,
+    "current_annual_ctc": 16.72
+  },
+  {
+    "id": "cand-97",
+    "first_name": "Robert",
+    "last_name": "Chen",
+    "primary_mobile_number": "9443845784835",
+    "primary_email": "awagner@example.org",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Delhi",
+      "Hyderabad"
+    ],
+    "total_months_of_experience": 83,
+    "skills": [
+      "Hadoop",
+      "Hive",
+      "ETL",
+      "Spark Streaming",
+      "Data Pipelines"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Gonzalez PLC",
+        "job_title": "Pipeline Engineer",
+        "role": "Data Engineer",
+        "industry": "IT",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Data Science",
+        "specialization": "Cloud Computing",
+        "year_of_completion": 2017,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 42.14,
+    "current_annual_ctc": 32.65
+  },
+  {
+    "id": "cand-98",
+    "first_name": "Brian",
+    "last_name": "Simpson",
+    "primary_mobile_number": "0799988352271",
+    "primary_email": "lewisstefanie@example.com",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Pune",
+      "Mumbai"
+    ],
+    "total_months_of_experience": 72,
+    "skills": [
+      "AWS Glue",
+      "Athena",
+      "Redshift",
+      "ETL",
+      "S3"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Lyons, Welch and Pena",
+        "job_title": "Pipeline Engineer",
+        "role": "Data Engineer",
+        "industry": "IT",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "AI",
+        "year_of_completion": 2019,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 34.12,
+    "current_annual_ctc": 28.07
+  },
+  {
+    "id": "cand-99",
+    "first_name": "Zachary",
+    "last_name": "Parks",
+    "primary_mobile_number": "8216034095242",
+    "primary_email": "lorimejia@example.net",
+    "current_city": "Bangalore",
+    "preferred_cities": [
+      "Hyderabad",
+      "Pune"
+    ],
+    "total_months_of_experience": 62,
+    "skills": [
+      "Hadoop",
+      "Hive",
+      "ETL",
+      "Spark Streaming",
+      "Data Pipelines"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Russell PLC",
+        "job_title": "ETL Developer",
+        "role": "Data Engineer",
+        "industry": "Software",
+        "employment_type": "Full-time",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Bachelor's Degree",
+        "course_name": "Information Technology",
+        "specialization": "Machine Learning",
+        "year_of_completion": 2017,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 13.51,
+    "current_annual_ctc": 12.26
+  },
+  {
+    "id": "cand-100",
+    "first_name": "Anthony",
+    "last_name": "Brady",
+    "primary_mobile_number": "4024731301065",
+    "primary_email": "henryjenna@example.com",
+    "current_city": "Pune",
+    "preferred_cities": [
+      "Pune",
+      "Bangalore"
+    ],
+    "total_months_of_experience": 60,
+    "skills": [
+      "Hadoop",
+      "Hive",
+      "ETL",
+      "Spark Streaming",
+      "Data Pipelines"
+    ],
+    "employment_history": [
+      {
+        "organisation_name": "Moore, Underwood and Williams",
+        "job_title": "Pipeline Engineer",
+        "role": "Data Engineer",
+        "industry": "Software",
+        "employment_type": "Contract",
+        "is_current_job": 1
+      }
+    ],
+    "education_details": [
+      {
+        "education_level": "Master's Degree",
+        "course_name": "Software Engineering",
+        "specialization": "Web Development",
+        "year_of_completion": 2022,
+        "course_type": "Part-time",
+        "is_highest_qualification": 1
+      }
+    ],
+    "expected_annual_ctc": 39.54,
+    "current_annual_ctc": 36.17
+  }
+]
